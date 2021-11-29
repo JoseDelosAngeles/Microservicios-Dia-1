@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/JoseDelosAngeles/Configurations.git
-          default-label: main
+          default-label: master
           search-paths:          - '*service'
